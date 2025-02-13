@@ -119,18 +119,18 @@ The following Python libraries are required to run the project:
   
 You can install the required libraries using **pip**:
 
-``` pip install numpy scipy jupyter ```
+    pip install numpy scipy jupyter
 
 ## Steps to Run the Project
 ### 1. Clone the Repository
 Clone the repository to your local machine using the following command:
 
-```git clone https://github.com/Sudha-MS-Projects/Density_Estimation_and_Classification_Project.git ```
+    git clone https://github.com/Sudha-MS-Projects/Density_Estimation_and_Classification_Project.git
 
 ### 2. Run the Jupyter Notebook
 Navigate to the project directory and open the Jupyter Notebook:
-
-``` jupyter notebook ```
+  
+    jupyter notebook
 
 This will open the notebook interface in the browser. Find and open the Density_Estimation_and_Classification.ipynb notebook and run the cell.
 
